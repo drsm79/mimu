@@ -1,4 +1,4 @@
 mimu
 ====
 
-Overtone library of noises and sequencers
+Overtone library of noises, sequencers and midi/OSC controllers
